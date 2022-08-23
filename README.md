@@ -1,2 +1,1 @@
-#
-simplilearn assignment
+# simplilearn assignment
