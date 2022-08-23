@@ -6,30 +6,27 @@ using System.Threading.Tasks;
 
 namespace aug_19_assignmentss
 {
-    internal class Program
+    internal class Class1
     {
         static void Main(string[] args)
         {
             int a;
             int b;
-            int min;
-            int max;
+            int c;
+            int large;
             Console.WriteLine("Enter first number : ");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter second number: ");
             b = Convert.ToInt32(Console.ReadLine());
-            if (a > b)
-                max = a;
-            else
-                max = b;
+            Console.WriteLine("Enter third number : ");
+            c = Convert.ToInt32(Console.ReadLine());
 
-            if (a < b)
-                min = a;
-            else
-                min = b;
-
-            Console.WriteLine("Minimum number = {0}", min);
-            Console.WriteLine("Maximum number = {0}", max);
+            if (a > b && a > c)
+                large = a;
+            else if (b > a && b > c)
+                large = b;
+            else large = c;
+            Console.WriteLine("Largest number is {0}", large);
         }
     }
 }
