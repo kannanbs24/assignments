@@ -1,0 +1,6 @@
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\bin\Debug\coderesuablelibrary.dll
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\bin\Debug\coderesuablelibrary.pdb
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\obj\Debug\coderesuablelibrary.csproj.AssemblyReference.cache
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\obj\Debug\coderesuablelibrary.csproj.CoreCompileInputs.cache
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\obj\Debug\coderesuablelibrary.dll
+E:\c# assignment\aug-24 assignments\coderesuablelibrary\obj\Debug\coderesuablelibrary.pdb
