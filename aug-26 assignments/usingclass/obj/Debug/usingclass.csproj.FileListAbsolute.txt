@@ -1,0 +1,6 @@
+E:\c# assignment\aug-26 assignments\usingclass\bin\Debug\usingclass.dll
+E:\c# assignment\aug-26 assignments\usingclass\bin\Debug\usingclass.pdb
+E:\c# assignment\aug-26 assignments\usingclass\obj\Debug\usingclass.csproj.AssemblyReference.cache
+E:\c# assignment\aug-26 assignments\usingclass\obj\Debug\usingclass.csproj.CoreCompileInputs.cache
+E:\c# assignment\aug-26 assignments\usingclass\obj\Debug\usingclass.dll
+E:\c# assignment\aug-26 assignments\usingclass\obj\Debug\usingclass.pdb

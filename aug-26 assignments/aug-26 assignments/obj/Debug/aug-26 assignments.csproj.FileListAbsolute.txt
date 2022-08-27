@@ -1,0 +1,11 @@
+E:\c# assignment\aug-26 assignments\aug-26 assignments\bin\Debug\aug-26 assignments.exe.config
+E:\c# assignment\aug-26 assignments\aug-26 assignments\bin\Debug\aug-26 assignments.exe
+E:\c# assignment\aug-26 assignments\aug-26 assignments\bin\Debug\aug-26 assignments.pdb
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.exe
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.pdb
+E:\c# assignment\aug-26 assignments\aug-26 assignments\bin\Debug\usingclass.dll
+E:\c# assignment\aug-26 assignments\aug-26 assignments\bin\Debug\usingclass.pdb
+E:\c# assignment\aug-26 assignments\aug-26 assignments\obj\Debug\aug-26 assignments.csproj.CopyComplete
