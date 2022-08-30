@@ -1,0 +1,8 @@
+E:\c# assignment\aug-30 assignments\aug-30 assignments\obj\Debug\aug-30 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\aug-30 assignments\aug-30 assignments\obj\Debug\aug-30 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\aug-30 assignments\aug-30 assignments\obj\Debug\aug-30 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\aug-30 assignments\aug-30 assignments\bin\Debug\aug-30 assignments.exe.config
+E:\c# assignment\aug-30 assignments\aug-30 assignments\bin\Debug\aug-30 assignments.exe
+E:\c# assignment\aug-30 assignments\aug-30 assignments\bin\Debug\aug-30 assignments.pdb
+E:\c# assignment\aug-30 assignments\aug-30 assignments\obj\Debug\aug-30 assignments.exe
+E:\c# assignment\aug-30 assignments\aug-30 assignments\obj\Debug\aug-30 assignments.pdb
