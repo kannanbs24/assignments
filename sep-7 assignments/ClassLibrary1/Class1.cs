@@ -82,10 +82,9 @@ namespace ClassLibrary1
     {
         public void welcome()
         {
-            Console.WriteLine(  "enter the char to upper");
-            String str = Console.ReadLine(); 
-            String result = str.ToUpper();
-            Console.WriteLine("upper case "+ result);
+            string str = "greetings!";
+            Console.WriteLine(str);
+            Console.WriteLine(char.ToUpper(str[0]) + str.Substring(1));
         }
     }
 }
