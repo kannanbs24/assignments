@@ -1,0 +1,11 @@
+E:\c# assignment\sep-8 assignments\sep-8 assignments\bin\Debug\sep-8 assignments.exe.config
+E:\c# assignment\sep-8 assignments\sep-8 assignments\bin\Debug\sep-8 assignments.exe
+E:\c# assignment\sep-8 assignments\sep-8 assignments\bin\Debug\sep-8 assignments.pdb
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.exe
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.pdb
+E:\c# assignment\sep-8 assignments\sep-8 assignments\bin\Debug\ClassLibrary1.dll
+E:\c# assignment\sep-8 assignments\sep-8 assignments\bin\Debug\ClassLibrary1.pdb
+E:\c# assignment\sep-8 assignments\sep-8 assignments\obj\Debug\sep-8 assignments.csproj.CopyComplete
