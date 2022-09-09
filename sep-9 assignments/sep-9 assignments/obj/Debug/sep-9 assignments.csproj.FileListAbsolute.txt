@@ -1,0 +1,8 @@
+E:\c# assignment\sep-9 assignments\sep-9 assignments\obj\Debug\sep-9 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\sep-9 assignments\sep-9 assignments\obj\Debug\sep-9 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sep-9 assignments\sep-9 assignments\obj\Debug\sep-9 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\sep-9 assignments\sep-9 assignments\bin\Debug\sep-9 assignments.exe.config
+E:\c# assignment\sep-9 assignments\sep-9 assignments\bin\Debug\sep-9 assignments.exe
+E:\c# assignment\sep-9 assignments\sep-9 assignments\bin\Debug\sep-9 assignments.pdb
+E:\c# assignment\sep-9 assignments\sep-9 assignments\obj\Debug\sep-9 assignments.exe
+E:\c# assignment\sep-9 assignments\sep-9 assignments\obj\Debug\sep-9 assignments.pdb
