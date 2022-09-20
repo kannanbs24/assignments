@@ -59,5 +59,4 @@ drop column qtysold
 
 alter table sales_detail1
 add Qty int
-
-EXEC sp_rename 'sales_detail1.Quantity','Quantity', column;
+sp_rename 'sales_detail1.Quantity','Quantity', column;
