@@ -56,13 +56,14 @@ namespace bal
              context.sp_DeleteEmployee(bookid);
              context.SaveChanges();
          }  
-        public void bookcounts()
+        public int bookcounts()
         {
             NorthwindEntities context = new NorthwindEntities();
-            context.sp_callfun();
+            return context.books.Count();
             
 
 
         }
+
     }
 }
