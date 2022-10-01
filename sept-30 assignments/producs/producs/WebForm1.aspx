@@ -73,7 +73,7 @@
         <p>
 
 
-        <asp:Label ID="Label4" runat="server" Text="delete products" BackColor="Lime"></asp:Label>
+        <asp:Label ID="Label4" runat="server" Text="update products" BackColor="Lime"></asp:Label>
         </p>
         <p>
          <asp:Label ID="lblProductid2" runat="server" Text="Enter Product ID" BackColor="White"></asp:Label>
@@ -116,7 +116,7 @@
         <p>
 
 
-        <asp:Label ID="Label6" runat="server" Text="view products" BackColor="Lime"></asp:Label>
+        <asp:Label ID="Label6" runat="server" Text="view particular products" BackColor="Lime"></asp:Label>
            
             </p>
         <p>

@@ -15,14 +15,14 @@ namespace producs
         SqlConnection c=new SqlConnection("Data Source=DESKTOP-LUAVTH3;Initial Catalog=kannan;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
-           HttpCookie cookie;
+         /*  HttpCookie cookie;
             cookie = Request.Cookies.Get("prodData");
             Products p2 = new Products();
             p2.Prodid = Convert.ToInt32(cookie["pid"]);
             p2.ProdName = cookie["pname"].ToString();
             p2.Price = Convert.ToInt32(cookie["price"]);
 
-            ListBox1.Items.Add(p2.Prodid + " " + p2.ProdName + " " + p2.Price);  
+            ListBox1.Items.Add(p2.Prodid + " " + p2.ProdName + " " + p2.Price);   */
         }
 
         protected void Button1_Click(object sender, EventArgs e)
