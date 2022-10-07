@@ -1,0 +1,22 @@
+﻿@using modelbinding.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<h2>view bag</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Custid</th>
+        <th>Custname</th>
+        <th>City</th>
+    </tr>
+    @foreach (var shift in ViewBag.customers)
+    {
+        <tr>
+            <td>@shift.Prodid</td>
+            <td>@shift.Prodname</td>
+            <td>@shift.ManufacturingDate</td>
+        </tr>
+    }
+</table>
