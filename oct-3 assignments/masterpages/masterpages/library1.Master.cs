@@ -50,5 +50,10 @@ namespace masterpages
 
             //c.Close();
         }
+
+        protected void TreeView1_SelectedNodeChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

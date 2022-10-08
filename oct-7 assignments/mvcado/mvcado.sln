@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcado", "mvcado\mvcado.csproj", "{AC6ABF55-B8E1-444F-A2D7-983D87360E25}"
+	ProjectSection(ProjectDependencies) = postProject
+		{534989EF-48A0-4895-9F02-05113A7393BD} = {534989EF-48A0-4895-9F02-05113A7393BD}
+		{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B} = {E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bussinesslogic", "..\sept-26\bussinesslogic\bussinesslogic.csproj", "{534989EF-48A0-4895-9F02-05113A7393BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data access", "..\sept-26\data access\data access.csproj", "{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{534989EF-48A0-4895-9F02-05113A7393BD} = {534989EF-48A0-4895-9F02-05113A7393BD}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helper", "..\sept-26\helper\helper.csproj", "{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C} = {2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}
+		{534989EF-48A0-4895-9F02-05113A7393BD} = {534989EF-48A0-4895-9F02-05113A7393BD}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{915916AF-19FC-4A6A-98EE-E2B4275900EF}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\kanna\OneDrive\Pictures\school.jpg = C:\Users\kanna\OneDrive\Pictures\school.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6ABF55-B8E1-444F-A2D7-983D87360E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6ABF55-B8E1-444F-A2D7-983D87360E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6ABF55-B8E1-444F-A2D7-983D87360E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6ABF55-B8E1-444F-A2D7-983D87360E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534989EF-48A0-4895-9F02-05113A7393BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534989EF-48A0-4895-9F02-05113A7393BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534989EF-48A0-4895-9F02-05113A7393BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534989EF-48A0-4895-9F02-05113A7393BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8C63E6-B500-4F10-BC01-0F48F9DEFB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E473C9C2-7FC7-442C-9699-FA06CA5B7C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB77888-FAE1-4718-B490-A516FEA26A34}
+	EndGlobalSection
+EndGlobal
